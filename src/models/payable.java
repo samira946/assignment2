@@ -1,4 +1,4 @@
 package models;
 
-public class payable {
+public interface payable {
 }
