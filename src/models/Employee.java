@@ -21,7 +21,7 @@ public class Employee extends Person {
     }
 
     public double getSalary() {
-        return getSalary();
+        return this.salary;
     }
 
     public void getSalary(double salary) {
